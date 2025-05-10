@@ -1,2 +1,2 @@
 # WebCed
-My portfolio
+please go to:https://cedi-portfolio.netlify.app/
